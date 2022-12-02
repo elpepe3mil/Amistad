@@ -1,1 +1,1 @@
-# Amistad
+# declaracion
